@@ -1,5 +1,5 @@
 function filtrarPorLetra(arr, letra) {
-    var version = "0.0.0"
+    var version = "tambor-1"
 
     let nuevoArr = [];
 
